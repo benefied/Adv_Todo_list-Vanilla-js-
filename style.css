@@ -126,3 +126,6 @@ option:hover{
     background: white;
     color: rgb(104, 175, 10);
 }
+option:click{
+   transform: scale(2rem);
+}
