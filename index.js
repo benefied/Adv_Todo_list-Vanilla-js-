@@ -8,6 +8,7 @@ todoList.addEventListener('click', deleteCheck);
 filterOption.addEventListener('click', filterTodo);
 
 
+//the main todo event adder
 function addTodo(event) {
 
     event.preventDefault(); 
