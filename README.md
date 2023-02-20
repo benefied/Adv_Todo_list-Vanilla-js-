@@ -13,6 +13,7 @@ Obj3: You can arrange and rearrange the todo list according to how you want it.
 
 -Advanced Objectives(Will be updated with more)
 Obj1: When you push a todo objective to the blockchain you must lock some ethers in too and some members/addresses/witness you know you around you must verify you did it before it is checked.
+Ohj(new)- Add a timer
 
 
 Method and Materials(Will be updated in time)
